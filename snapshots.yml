@@ -1,3 +1,3 @@
-- name: Home
+- name: BerserkHome
   url: https://readberserk.com/chapter/berserk-chapter-370/
   waitForTimeout: 30000
